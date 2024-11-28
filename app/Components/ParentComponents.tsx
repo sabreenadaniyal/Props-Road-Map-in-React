@@ -20,7 +20,7 @@ const ParentComponents = () => {
    {    
     imagePath: "/images/city.jpeg",
     carName: "Honda City",
-    price: "46.5 - 58.5 Lacs",
+    price: "46.5-58.5 Lacs",
     rating: "457 Reviews"
    },
 
